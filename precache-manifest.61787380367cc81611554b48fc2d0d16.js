@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2368780d69369de3addfb5614fe9222d",
+    "revision": "44f1003f24699754f38b308a04f53430",
     "url": "/easycms/index.html"
   },
   {
-    "revision": "25fb5cf7a1f41f520fe0",
+    "revision": "2ec4d43d67926f532334",
     "url": "/easycms/static/css/2.63b65d4e.chunk.css"
   },
   {
-    "revision": "ba04c52bed80b3af1290",
+    "revision": "9034991d5b5f58d73e2d",
     "url": "/easycms/static/css/main.e0ec0846.chunk.css"
   },
   {
-    "revision": "25fb5cf7a1f41f520fe0",
-    "url": "/easycms/static/js/2.8220dede.chunk.js"
+    "revision": "2ec4d43d67926f532334",
+    "url": "/easycms/static/js/2.81eb8d80.chunk.js"
   },
   {
     "revision": "56729d980da09961afe8d497a21eec12",
-    "url": "/easycms/static/js/2.8220dede.chunk.js.LICENSE.txt"
+    "url": "/easycms/static/js/2.81eb8d80.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ba04c52bed80b3af1290",
-    "url": "/easycms/static/js/main.764fcc96.chunk.js"
+    "revision": "9034991d5b5f58d73e2d",
+    "url": "/easycms/static/js/main.4b05171a.chunk.js"
   },
   {
     "revision": "3aa64dc42b4a17caab8e",
